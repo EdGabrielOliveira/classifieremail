@@ -98,7 +98,7 @@ Fallback heurístico (se IA falha):
 
 ## Variáveis de Ambiente (.env)
 
-# AVISO: Acesso apenas para rodar local, chaves sem acesso ao projeto principal.
+## AVISO: Acesso apenas para rodar local, chaves sem acesso ao projeto principal.
 
 ```
 SECRET_API_KEY=2118AEFCFF48F2F4B82D627B75673
