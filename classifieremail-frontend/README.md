@@ -80,7 +80,7 @@ bun dev
 
 ## Configuração de Variáveis de Ambiente
 
-# AVISO: Acesso apenas para rodar local, chaves sem acesso ao projeto principal.
+## AVISO: Acesso apenas para rodar local, chaves sem acesso ao projeto principal.
 
 Crie um arquivo `.env.local` na raiz do projeto com o seguinte conteúdo:
 
