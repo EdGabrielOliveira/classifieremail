@@ -60,12 +60,20 @@ public/                  # Imagens e ícones
 ```bash
 npm install
 ```
+ou
+```bash
+bun install
+```
 
 2. Configure o arquivo `.env.local` com sua API_URL e API_KEY.
 3. Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
+```
+ou
+```bash
+bun dev
 ```
 
 4. Acesse [http://localhost:3000](http://localhost:3000) no navegador.
@@ -78,7 +86,7 @@ Crie um arquivo `.env.local` na raiz do projeto com o seguinte conteúdo:
 
 ```env
 API_URL=http://0.0.0.0:8000
-API_KEY= 2118AEFCFF48F2F4B82D627B75673
+API_KEY=2118AEFCFF48F2F4B82D627B75673
 ```
 
 > **Atenção:**
